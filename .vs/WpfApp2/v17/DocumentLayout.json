@@ -1,0 +1,365 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\WpfApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5CE81C-CE5C-4D7D-B5FB-5EDC65E0EAEA}|WpfApp2\\WpfApp2.csproj|c:\\users\\user\\source\\repos\\wpfapp2\\wpfapp2\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6F5CE81C-CE5C-4D7D-B5FB-5EDC65E0EAEA}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5CE81C-CE5C-4D7D-B5FB-5EDC65E0EAEA}|WpfApp2\\WpfApp2.csproj|C:\\Users\\user\\source\\repos\\WpfApp2\\wpfapp2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F5CE81C-CE5C-4D7D-B5FB-5EDC65E0EAEA}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5CE81C-CE5C-4D7D-B5FB-5EDC65E0EAEA}|WpfApp2\\WpfApp2.csproj|C:\\Users\\user\\source\\repos\\WpfApp2\\wpfapp2\\views\\edituserspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6F5CE81C-CE5C-4D7D-B5FB-5EDC65E0EAEA}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\views\\edituserspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5CE81C-CE5C-4D7D-B5FB-5EDC65E0EAEA}|WpfApp2\\WpfApp2.csproj|C:\\Users\\user\\source\\repos\\WpfApp2\\wpfapp2\\views\\editproductpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{6F5CE81C-CE5C-4D7D-B5FB-5EDC65E0EAEA}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\views\\editproductpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5CE81C-CE5C-4D7D-B5FB-5EDC65E0EAEA}|WpfApp2\\WpfApp2.csproj|C:\\Users\\user\\source\\repos\\WpfApp2\\wpfapp2\\views\\edituserwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{6F5CE81C-CE5C-4D7D-B5FB-5EDC65E0EAEA}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\views\\edituserwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5CE81C-CE5C-4D7D-B5FB-5EDC65E0EAEA}|WpfApp2\\WpfApp2.csproj|C:\\Users\\user\\source\\repos\\WpfApp2\\wpfapp2\\views\\edituserwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6F5CE81C-CE5C-4D7D-B5FB-5EDC65E0EAEA}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\views\\edituserwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5CE81C-CE5C-4D7D-B5FB-5EDC65E0EAEA}|WpfApp2\\WpfApp2.csproj|C:\\Users\\user\\source\\repos\\WpfApp2\\wpfapp2\\views\\edituserspage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{6F5CE81C-CE5C-4D7D-B5FB-5EDC65E0EAEA}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\views\\edituserspage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5CE81C-CE5C-4D7D-B5FB-5EDC65E0EAEA}|WpfApp2\\WpfApp2.csproj|C:\\Users\\user\\source\\repos\\WpfApp2\\wpfapp2\\views\\mainpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{6F5CE81C-CE5C-4D7D-B5FB-5EDC65E0EAEA}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\views\\mainpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5CE81C-CE5C-4D7D-B5FB-5EDC65E0EAEA}|WpfApp2\\WpfApp2.csproj|C:\\Users\\user\\source\\repos\\WpfApp2\\wpfapp2\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F5CE81C-CE5C-4D7D-B5FB-5EDC65E0EAEA}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5CE81C-CE5C-4D7D-B5FB-5EDC65E0EAEA}|WpfApp2\\WpfApp2.csproj|C:\\Users\\user\\source\\repos\\WpfApp2\\wpfapp2\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F5CE81C-CE5C-4D7D-B5FB-5EDC65E0EAEA}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5CE81C-CE5C-4D7D-B5FB-5EDC65E0EAEA}|WpfApp2\\WpfApp2.csproj|C:\\Users\\user\\source\\repos\\WpfApp2\\wpfapp2\\views\\inputdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6F5CE81C-CE5C-4D7D-B5FB-5EDC65E0EAEA}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\views\\inputdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5CE81C-CE5C-4D7D-B5FB-5EDC65E0EAEA}|WpfApp2\\WpfApp2.csproj|C:\\Users\\user\\source\\repos\\WpfApp2\\wpfapp2\\views\\addproductpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6F5CE81C-CE5C-4D7D-B5FB-5EDC65E0EAEA}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\views\\addproductpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5CE81C-CE5C-4D7D-B5FB-5EDC65E0EAEA}|WpfApp2\\WpfApp2.csproj|C:\\Users\\user\\source\\repos\\WpfApp2\\wpfapp2\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F5CE81C-CE5C-4D7D-B5FB-5EDC65E0EAEA}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5CE81C-CE5C-4D7D-B5FB-5EDC65E0EAEA}|WpfApp2\\WpfApp2.csproj|C:\\Users\\user\\source\\repos\\WpfApp2\\wpfapp2\\views\\cartpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6F5CE81C-CE5C-4D7D-B5FB-5EDC65E0EAEA}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\views\\cartpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5CE81C-CE5C-4D7D-B5FB-5EDC65E0EAEA}|WpfApp2\\WpfApp2.csproj|C:\\Users\\user\\source\\repos\\WpfApp2\\wpfapp2\\views\\cartpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{6F5CE81C-CE5C-4D7D-B5FB-5EDC65E0EAEA}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\views\\cartpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5CE81C-CE5C-4D7D-B5FB-5EDC65E0EAEA}|WpfApp2\\WpfApp2.csproj|C:\\Users\\user\\source\\repos\\WpfApp2\\wpfapp2\\views\\editproductpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6F5CE81C-CE5C-4D7D-B5FB-5EDC65E0EAEA}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\views\\editproductpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5CE81C-CE5C-4D7D-B5FB-5EDC65E0EAEA}|WpfApp2\\WpfApp2.csproj|C:\\Users\\user\\source\\repos\\WpfApp2\\wpfapp2\\views\\addproductpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{6F5CE81C-CE5C-4D7D-B5FB-5EDC65E0EAEA}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\views\\addproductpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5CE81C-CE5C-4D7D-B5FB-5EDC65E0EAEA}|WpfApp2\\WpfApp2.csproj|C:\\Users\\user\\source\\repos\\WpfApp2\\wpfapp2\\services\\jsondatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F5CE81C-CE5C-4D7D-B5FB-5EDC65E0EAEA}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\services\\jsondatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5CE81C-CE5C-4D7D-B5FB-5EDC65E0EAEA}|WpfApp2\\WpfApp2.csproj|C:\\Users\\user\\source\\repos\\WpfApp2\\wpfapp2\\views\\inputdialog.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{6F5CE81C-CE5C-4D7D-B5FB-5EDC65E0EAEA}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\views\\inputdialog.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5CE81C-CE5C-4D7D-B5FB-5EDC65E0EAEA}|WpfApp2\\WpfApp2.csproj|C:\\Users\\user\\source\\repos\\WpfApp2\\wpfapp2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6F5CE81C-CE5C-4D7D-B5FB-5EDC65E0EAEA}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5CE81C-CE5C-4D7D-B5FB-5EDC65E0EAEA}|WpfApp2\\WpfApp2.csproj|C:\\Users\\user\\source\\repos\\WpfApp2\\wpfapp2\\services\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F5CE81C-CE5C-4D7D-B5FB-5EDC65E0EAEA}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\services\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5CE81C-CE5C-4D7D-B5FB-5EDC65E0EAEA}|WpfApp2\\WpfApp2.csproj|C:\\Users\\user\\source\\repos\\WpfApp2\\wpfapp2\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6F5CE81C-CE5C-4D7D-B5FB-5EDC65E0EAEA}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EditUsersPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WpfApp2\\WpfApp2\\Views\\EditUsersPage.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp2\\Views\\EditUsersPage.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WpfApp2\\WpfApp2\\Views\\EditUsersPage.xaml.cs",
+              "RelativeToolTip": "WpfApp2\\Views\\EditUsersPage.xaml.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAswCQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T11:56:13.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WpfApp2\\WpfApp2\\Views\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp2\\Views\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WpfApp2\\WpfApp2\\Views\\MainPage.xaml.cs",
+              "RelativeToolTip": "WpfApp2\\Views\\MainPage.xaml.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAswDMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T11:06:24.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditProductPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WpfApp2\\WpfApp2\\Views\\EditProductPage.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp2\\Views\\EditProductPage.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WpfApp2\\WpfApp2\\Views\\EditProductPage.xaml.cs",
+              "RelativeToolTip": "WpfApp2\\Views\\EditProductPage.xaml.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAiwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T12:57:43.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EditUsersPage.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WpfApp2\\WpfApp2\\Views\\EditUsersPage.xaml",
+              "RelativeDocumentMoniker": "WpfApp2\\Views\\EditUsersPage.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WpfApp2\\WpfApp2\\Views\\EditUsersPage.xaml",
+              "RelativeToolTip": "WpfApp2\\Views\\EditUsersPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-17T11:55:25.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EditUserWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WpfApp2\\WpfApp2\\Views\\EditUserWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp2\\Views\\EditUserWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WpfApp2\\WpfApp2\\Views\\EditUserWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp2\\Views\\EditUserWindow.xaml.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAiwDoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T13:34:32.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WpfApp2\\WpfApp2\\Views\\MainPage.xaml",
+              "RelativeDocumentMoniker": "WpfApp2\\Views\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WpfApp2\\WpfApp2\\Views\\MainPage.xaml",
+              "RelativeToolTip": "WpfApp2\\Views\\MainPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-17T11:05:28.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EditUserWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WpfApp2\\WpfApp2\\Views\\EditUserWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp2\\Views\\EditUserWindow.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WpfApp2\\WpfApp2\\Views\\EditUserWindow.xaml",
+              "RelativeToolTip": "WpfApp2\\Views\\EditUserWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-18T13:33:52.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WpfApp2\\WpfApp2\\Models\\User.cs",
+              "RelativeDocumentMoniker": "WpfApp2\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WpfApp2\\WpfApp2\\Models\\User.cs",
+              "RelativeToolTip": "WpfApp2\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T09:59:28.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WpfApp2\\WpfApp2\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp2\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WpfApp2\\WpfApp2\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp2\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T19:14:29.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CartPage.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WpfApp2\\WpfApp2\\Views\\CartPage.xaml",
+              "RelativeDocumentMoniker": "WpfApp2\\Views\\CartPage.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WpfApp2\\WpfApp2\\Views\\CartPage.xaml",
+              "RelativeToolTip": "WpfApp2\\Views\\CartPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-17T13:47:00.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddProductPage.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WpfApp2\\WpfApp2\\Views\\AddProductPage.xaml",
+              "RelativeDocumentMoniker": "WpfApp2\\Views\\AddProductPage.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WpfApp2\\WpfApp2\\Views\\AddProductPage.xaml",
+              "RelativeToolTip": "WpfApp2\\Views\\AddProductPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-17T12:08:50.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WpfApp2\\WpfApp2\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "WpfApp2\\Models\\CartItem.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WpfApp2\\WpfApp2\\Models\\CartItem.cs",
+              "RelativeToolTip": "WpfApp2\\Models\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T13:45:20.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WpfApp2\\WpfApp2\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "WpfApp2\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WpfApp2\\WpfApp2\\Models\\Product.cs",
+              "RelativeToolTip": "WpfApp2\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T11:06:13.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InputDialog.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WpfApp2\\WpfApp2\\Views\\InputDialog.xaml",
+              "RelativeDocumentMoniker": "WpfApp2\\Views\\InputDialog.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WpfApp2\\WpfApp2\\Views\\InputDialog.xaml",
+              "RelativeToolTip": "WpfApp2\\Views\\InputDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-17T12:00:02.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CartPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WpfApp2\\WpfApp2\\Views\\CartPage.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp2\\Views\\CartPage.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WpfApp2\\WpfApp2\\Views\\CartPage.xaml.cs",
+              "RelativeToolTip": "WpfApp2\\Views\\CartPage.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T13:47:39.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AddProductPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WpfApp2\\WpfApp2\\Views\\AddProductPage.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp2\\Views\\AddProductPage.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WpfApp2\\WpfApp2\\Views\\AddProductPage.xaml.cs",
+              "RelativeToolTip": "WpfApp2\\Views\\AddProductPage.xaml.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAqwDsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T12:10:18.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EditProductPage.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WpfApp2\\WpfApp2\\Views\\EditProductPage.xaml",
+              "RelativeDocumentMoniker": "WpfApp2\\Views\\EditProductPage.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WpfApp2\\WpfApp2\\Views\\EditProductPage.xaml",
+              "RelativeToolTip": "WpfApp2\\Views\\EditProductPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-17T12:56:43.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "JsonDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WpfApp2\\WpfApp2\\Services\\JsonDatabase.cs",
+              "RelativeDocumentMoniker": "WpfApp2\\Services\\JsonDatabase.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WpfApp2\\WpfApp2\\Services\\JsonDatabase.cs",
+              "RelativeToolTip": "WpfApp2\\Services\\JsonDatabase.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T09:56:19.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "InputDialog.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WpfApp2\\WpfApp2\\Views\\InputDialog.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp2\\Views\\InputDialog.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WpfApp2\\WpfApp2\\Views\\InputDialog.xaml.cs",
+              "RelativeToolTip": "WpfApp2\\Views\\InputDialog.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAswB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T12:02:16.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WpfApp2\\WpfApp2\\Services\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "WpfApp2\\Services\\PasswordHasher.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WpfApp2\\WpfApp2\\Services\\PasswordHasher.cs",
+              "RelativeToolTip": "WpfApp2\\Services\\PasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T10:36:26.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WpfApp2\\WpfApp2\\App.config",
+              "RelativeDocumentMoniker": "WpfApp2\\App.config",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WpfApp2\\WpfApp2\\App.config",
+              "RelativeToolTip": "WpfApp2\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-16T20:53:30.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WpfApp2\\WpfApp2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp2\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WpfApp2\\WpfApp2\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp2\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-16T19:14:30.555Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

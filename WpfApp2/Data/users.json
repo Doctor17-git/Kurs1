@@ -1,0 +1,27 @@
+[
+  {
+    "Username": "admin",
+    "PasswordHash": "JAvlGPq9JyTdtvBO6x2llnRI1+gxwIyPqCKAn3THIKk=",
+    "Role": "admin"
+  },
+  {
+    "Username": "seller",
+    "PasswordHash": "KnYRDQa8xP1Dcze5hBMc+oLbn3kuPiNArO+fMGayZOA=",
+    "Role": "seller"
+  },
+  {
+    "Username": "user",
+    "PasswordHash": "5gbjiw2MGbJM8O44CBgxYup81j/3kS27IrXoAyhrREY=",
+    "Role": "user"
+  },
+  {
+    "Username": "guest",
+    "PasswordHash": "",
+    "Role": "guest"
+  },
+  {
+    "Username": "admin2",
+    "PasswordHash": "vz8146TM2aUaM37OD0Xu3+wsGwidg5vyoVGGc8o20l8=",
+    "Role": "admin"
+  }
+]
